@@ -1,0 +1,10 @@
+C:\Nueva carpeta\ProyectoVb\Entidad\bin\Debug\Entidad.dll
+C:\Nueva carpeta\ProyectoVb\Entidad\bin\Debug\Entidad.pdb
+C:\Nueva carpeta\ProyectoVb\Entidad\bin\Debug\Entidad.xml
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.vbproj.AssemblyReference.cache
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.vbproj.GenerateResource.cache
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.vbproj.CoreCompileInputs.cache
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.dll
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.xml
+C:\Nueva carpeta\ProyectoVb\Entidad\obj\Debug\Entidad.pdb

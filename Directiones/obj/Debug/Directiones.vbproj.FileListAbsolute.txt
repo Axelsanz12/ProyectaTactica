@@ -1,0 +1,14 @@
+C:\Nueva carpeta\ProyectoVb\Directiones\bin\Debug\Directiones.dll
+C:\Nueva carpeta\ProyectoVb\Directiones\bin\Debug\Directiones.pdb
+C:\Nueva carpeta\ProyectoVb\Directiones\bin\Debug\Directiones.xml
+C:\Nueva carpeta\ProyectoVb\Directiones\bin\Debug\Entidad.dll
+C:\Nueva carpeta\ProyectoVb\Directiones\bin\Debug\Entidad.pdb
+C:\Nueva carpeta\ProyectoVb\Directiones\bin\Debug\Entidad.xml
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.vbproj.AssemblyReference.cache
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.Resources.resources
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.vbproj.GenerateResource.cache
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.vbproj.CoreCompileInputs.cache
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directio.EC5CB0BB.Up2Date
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.dll
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.xml
+C:\Nueva carpeta\ProyectoVb\Directiones\obj\Debug\Directiones.pdb
